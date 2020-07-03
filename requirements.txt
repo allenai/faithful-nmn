@@ -1,0 +1,6 @@
+torch==1.2.0
+transformers==2.4.0
+allennlp==0.9.0
+spacy-transformers
+torchvision==0.4.0
+spacy
